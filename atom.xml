@@ -1,25 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>XLL</title>
   
+  <subtitle>XLL</subtitle>
+  <link href="http://www.mofashaonvhongshixian.github.io/atom.xml" rel="self"/>
   
-  <link href="http://www.mofashaonvhongshixian.com/atom.xml" rel="self"/>
-  
-  <link href="http://www.mofashaonvhongshixian.com/"/>
-  <updated>2023-03-14T14:05:45.975Z</updated>
-  <id>http://www.mofashaonvhongshixian.com/</id>
+  <link href="http://www.mofashaonvhongshixian.github.io/"/>
+  <updated>2023-03-15T04:00:44.197Z</updated>
+  <id>http://www.mofashaonvhongshixian.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>屑啦啦</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>笨蛋妄岚和聪明的欣欣</title>
+    <link href="http://www.mofashaonvhongshixian.github.io/2023/03/1529059.html"/>
+    <id>http://www.mofashaonvhongshixian.github.io/2023/03/1529059.html</id>
+    <published>2023-03-15T03:50:58.000Z</published>
+    <updated>2023-03-15T04:00:44.197Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;笨蛋妄岚&quot;&gt;&lt;a href=&quot;#笨蛋妄岚&quot; class=&quot;headerlink&quot; title=&quot;笨蛋妄岚&quot;&gt;&lt;/a&gt;笨蛋妄岚&lt;/h1&gt;&lt;h2 id=&quot;笨蛋妄岚是猪猪&quot;&gt;&lt;a href=&quot;#笨蛋妄岚是猪猪&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="xll" scheme="http://www.mofashaonvhongshixian.github.io/tags/xll/"/>
+    
+  </entry>
+  
+  <entry>
     <title>My New Post</title>
-    <link href="http://www.mofashaonvhongshixian.com/2023/03/1422554.html"/>
-    <id>http://www.mofashaonvhongshixian.com/2023/03/1422554.html</id>
+    <link href="http://www.mofashaonvhongshixian.github.io/2023/03/1422554.html"/>
+    <id>http://www.mofashaonvhongshixian.github.io/2023/03/1422554.html</id>
     <published>2023-03-14T05:40:45.000Z</published>
     <updated>2023-03-14T14:05:45.975Z</updated>
     
@@ -31,8 +54,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.mofashaonvhongshixian.com/2023/03/1416107.html"/>
-    <id>http://www.mofashaonvhongshixian.com/2023/03/1416107.html</id>
+    <link href="http://www.mofashaonvhongshixian.github.io/2023/03/1416107.html"/>
+    <id>http://www.mofashaonvhongshixian.github.io/2023/03/1416107.html</id>
     <published>2023-03-14T05:33:32.481Z</published>
     <updated>2023-03-14T14:05:45.975Z</updated>
     
